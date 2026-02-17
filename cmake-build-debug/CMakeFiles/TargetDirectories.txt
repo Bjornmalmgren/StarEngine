@@ -1,0 +1,3 @@
+C:/Users/frass/Documents/GitHub/StarEngine/cmake-build-debug/CMakeFiles/StarEngine.dir
+C:/Users/frass/Documents/GitHub/StarEngine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/frass/Documents/GitHub/StarEngine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
